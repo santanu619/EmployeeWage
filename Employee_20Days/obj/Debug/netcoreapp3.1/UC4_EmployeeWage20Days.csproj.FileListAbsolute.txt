@@ -1,0 +1,12 @@
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\obj\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\obj\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\obj\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\bin\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.exe
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\bin\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.deps.json
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\bin\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.runtimeconfig.json
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\bin\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\bin\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.dll
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\bin\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.pdb
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\obj\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.dll
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\obj\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.pdb
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_20Days\obj\Debug\netcoreapp3.1\UC4_EmployeeWage20Days.genruntimeconfig.cache

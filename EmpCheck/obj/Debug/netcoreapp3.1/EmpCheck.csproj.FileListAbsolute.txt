@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\bin\Debug\netcoreapp3.1\EmpCheck.exe
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\bin\Debug\netcoreapp3.1\EmpCheck.deps.json
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\bin\Debug\netcoreapp3.1\EmpCheck.runtimeconfig.json
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\bin\Debug\netcoreapp3.1\EmpCheck.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\bin\Debug\netcoreapp3.1\EmpCheck.dll
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\bin\Debug\netcoreapp3.1\EmpCheck.pdb
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\obj\Debug\netcoreapp3.1\EmpCheck.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\obj\Debug\netcoreapp3.1\EmpCheck.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\obj\Debug\netcoreapp3.1\EmpCheck.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\obj\Debug\netcoreapp3.1\EmpCheck.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\obj\Debug\netcoreapp3.1\EmpCheck.dll
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\obj\Debug\netcoreapp3.1\EmpCheck.pdb
+C:\Users\SANTANU\source\repos\EmpCheck\EmpCheck\obj\Debug\netcoreapp3.1\EmpCheck.genruntimeconfig.cache

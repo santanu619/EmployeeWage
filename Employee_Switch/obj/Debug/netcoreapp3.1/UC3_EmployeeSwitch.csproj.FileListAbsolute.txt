@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\bin\Debug\netcoreapp3.1\UC3_EmployeeSwitch.exe
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\bin\Debug\netcoreapp3.1\UC3_EmployeeSwitch.deps.json
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\bin\Debug\netcoreapp3.1\UC3_EmployeeSwitch.runtimeconfig.json
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\bin\Debug\netcoreapp3.1\UC3_EmployeeSwitch.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\bin\Debug\netcoreapp3.1\UC3_EmployeeSwitch.dll
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\bin\Debug\netcoreapp3.1\UC3_EmployeeSwitch.pdb
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\obj\Debug\netcoreapp3.1\UC3_EmployeeSwitch.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\obj\Debug\netcoreapp3.1\UC3_EmployeeSwitch.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\obj\Debug\netcoreapp3.1\UC3_EmployeeSwitch.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\obj\Debug\netcoreapp3.1\UC3_EmployeeSwitch.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\obj\Debug\netcoreapp3.1\UC3_EmployeeSwitch.dll
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\obj\Debug\netcoreapp3.1\UC3_EmployeeSwitch.pdb
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\obj\Debug\netcoreapp3.1\UC3_EmployeeSwitch.genruntimeconfig.cache

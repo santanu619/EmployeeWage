@@ -1,0 +1,4 @@
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\obj\Debug\netcoreapp3.1\Employee_Switch.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\obj\Debug\netcoreapp3.1\Employee_Switch.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\obj\Debug\netcoreapp3.1\Employee_Switch.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\EmpCheck\Employee_Switch\obj\Debug\netcoreapp3.1\Employee_Switch.csproj.CoreCompileInputs.cache
